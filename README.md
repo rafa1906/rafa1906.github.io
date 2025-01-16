@@ -2,15 +2,17 @@
 
 # Hi, I'm Rafael!
 
-I'm an incoming Computer Science PhD student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/), supported by a [CMU Portugal Dual Degree PhD](https://cmuportugal.org/dual-degree-phd/) fellowship. I'm co-advised by [José Fragoso Santos](https://web.ist.utl.pt/jose.fragoso/), [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/) and [Pedro Adão](https://www.math.tecnico.ulisboa.pt/~padao/). 
+I'm a first-year Computer Science PhD student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/), supported by a [CMU Portugal Dual Degree PhD](https://cmuportugal.org/dual-degree-phd/) fellowship. I'm co-advised by [José Fragoso Santos](https://web.ist.utl.pt/jose.fragoso/), [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/) and [Pedro Adão](https://www.math.tecnico.ulisboa.pt/~padao/). 
 
-My research interests lie primarly in the areas of software security and formal methods. Specifically, my work focuses on this question: **how can we leverage various verification techniques to build powerful and usable tools for detecting vulnerabilities in real-world code bases?**
+My research interests lie primarly in the areas of software security and formal methods. Most recently, I've been building robust analysis tools for detecting vulnerabilities in Node.js packages.
 
 I hold an MSc in Computer Science and Engineering from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/). I've also worked on fairness in Machine Learning as a Research Assistant at [INESC-ID](https://www.inesc-id.pt/) and served as a TA in multiple courses.
 
 You can find my CV [here](static/docs/cv.pdf).
 
 ## PUBLICATIONS <span class="scholar">(<a href="https://scholar.google.pt/citations?user=bxUKyLQAAAAJ&hl=en" style="color:inherit">Google Scholar</a>)</span>
+
+* **R. Gonçalves**, F. Gouveia, I. Lynce, J. Fragoso Santos. *Proxy Attribute Discovery in Machine Learning Datasets via Inductive Logic Programming*. To appear in: TACAS 2025. [[Poster](static/docs/tacas25.pdf)]
 
 * **R. Gonçalves**, F. Ramos, P. Adão, J. Fragoso Santos. *Poster: Specification-Driven Synthesis of Summaries for Symbolic Execution*. Presented at: ISSTA/ECOOP 2023. [[Poster](static/docs/ecoop23.pdf)]
 
@@ -20,9 +22,7 @@ You can find my CV [here](static/docs/cv.pdf).
 
 ## EXPERIENCE
 
-I'm currently working on the [RIGA](https://doi.org/10.54499/2022.03537.PTDC) project as a Research Assisistant in the [Automated Reasoning and Software Reliability](https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/) group at at [INESC-ID](https://www.inesc-id.pt/).
-
-In the past, I spent two months at CMU's [CyLab](https://www.cylab.cmu.edu/) as a visiting scholar under the guidance of Prof. [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/), working on [NodeMedic](https://www.doi.org/10.1109/EuroSP57164.2023.00068).
+Previously, I worked on the [RIGA](https://doi.org/10.54499/2022.03537.PTDC) project as a Research Assisistant in the [Automated Reasoning and Software Reliability](https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/) group at at [INESC-ID](https://www.inesc-id.pt/). Before that, I spent two months at CMU's [CyLab](https://www.cylab.cmu.edu/) as a visiting scholar under the guidance of Prof. [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/), working on [NodeMedic](https://www.doi.org/10.1109/EuroSP57164.2023.00068).
 
 ### Teaching
 
@@ -35,18 +35,18 @@ I've served as a TA in these courses at [IST](https://tecnico.ulisboa.pt/en/):
 
 [//]: # (### Current)
 
+[//]: # (### Past)
+
 * **RIGA: Reasoning Over Indirect Discrimination** [[DOI](https://doi.org/10.54499/2022.03537.PTDC)]\
 The issue of fairness is a well-known challenge in Machine Learning (ML). Algorithmic bias can manifest during the training of ML models due to the presence of sensitive attributes, such as gender or racial identity. Project RIGA aims to apply automated reasoning techniques to detect *indirect discrimination* in ML classification algorithms. The focus is on so-called *proxy attributes*: those that, while not sensitive themselves, may lead to discrimiatory behavior due to their correlation with sensitive attributes.
-
-[//]: # (### Past)
     
 ## CONTACT
 
 Want to talk? Find me at:
 
 <dl style="padding-left:4%">
-    <dt><i class="fa-solid fa-location-dot" style="padding-left:2pt;padding-right:1.5pt"></i> Instituto Superior Técnico</dt>
-    <dt><i class="fa-solid fa-envelope"></i> <a href="mailto:rafael.s.goncalves@tecnico.ulisboa.pt" style="color:inherit">rafael.s.goncalves@tecnico.ulisboa.pt</a></dt>
+    <dt><i class="fa-solid fa-location-dot" style="padding-left:2pt;padding-right:1.5pt"></i> GHC 9223, CMU</dt>
+    <dt><i class="fa-solid fa-envelope"></i> <a href="mailto:rafael.s.goncalves@tecnico.ulisboa.pt" style="color:inherit">rgoncalv@andrew.cmu.edu</a></dt>
     <dt><i class="fa-brands fa-linkedin" style="padding-left:0.5pt"></i> <a href="https://www.linkedin.com/in/rafa1906/" style="color:inherit">Rafael Gonçalves</a></dt>
 </dl>
 

@@ -12,7 +12,7 @@ You can find my CV [here](static/docs/cv.pdf).
 
 ## PUBLICATIONS <span class="scholar">(<a href="https://scholar.google.pt/citations?user=bxUKyLQAAAAJ&hl=en" style="color:inherit">Google Scholar</a>)</span>
 
-* **R. Gonçalves**, F. Gouveia, I. Lynce, J. Fragoso Santos. *Proxy Attribute Discovery in Machine Learning Datasets via Inductive Logic Programming*. To appear in: TACAS 2025. [[Poster](static/docs/tacas25.pdf)]
+* **R. Gonçalves**, F. Gouveia, I. Lynce, J. Fragoso Santos. *Proxy Attribute Discovery in Machine Learning Datasets via Inductive Logic Programming*. To appear in: TACAS 2025. [[Preprint](static/docs/tacas25.pdf)]
 
 * **R. Gonçalves**, F. Ramos, P. Adão, J. Fragoso Santos. *Poster: Specification-Driven Synthesis of Summaries for Symbolic Execution*. Presented at: ISSTA/ECOOP 2023. [[Poster](static/docs/ecoop23.pdf)]
 

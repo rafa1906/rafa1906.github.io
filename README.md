@@ -2,7 +2,7 @@
 
 # Hi, I'm Rafael!
 
-I'm a first-year Computer Science PhD student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/), supported by a [CMU Portugal Dual Degree PhD](https://cmuportugal.org/dual-degree-phd/) fellowship. I'm co-advised by Profs. [José Fragoso Santos](https://web.ist.utl.pt/jose.fragoso/), [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/) and [Pedro Adão](https://www.math.tecnico.ulisboa.pt/~padao/). 
+I'm a second-year Computer Science PhD student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/), supported by a [CMU Portugal Dual Degree PhD](https://cmuportugal.org/dual-degree-phd/) fellowship. I'm co-advised by Profs. [José Fragoso Santos](https://web.ist.utl.pt/jose.fragoso/), [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/) and [Pedro Adão](https://www.math.tecnico.ulisboa.pt/~padao/). 
 
 My research interests lie primarly in the areas of software security and formal methods. Most recently, I've been building robust analysis tools for detecting vulnerabilities in Node.js packages.
 
@@ -11,6 +11,8 @@ I hold an MSc in Computer Science and Engineering from [Instituto Superior Técn
 You can find my CV [here](static/docs/cv.pdf).
 
 ## PUBLICATIONS <span class="scholar">(<a href="https://scholar.google.pt/citations?user=bxUKyLQAAAAJ&hl=en" style="color:inherit">Google Scholar</a>)</span>
+
+* **R. Gonçalves**, F. Ramos, P. Adão, J. Fragoso Santos. *Specification-Driven Generation of Summaries for Symbolic Execution*. To appear in: ESOP 2026.
 
 * **R. Gonçalves**, F. Gouveia, I. Lynce, J. Fragoso Santos. *Proxy Attribute Discovery in Machine Learning Datasets via Inductive Logic Programming*. In: TACAS 2025. [[DOI](https://doi.org/10.1007/978-3-031-90653-4_17)]
 

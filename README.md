@@ -12,7 +12,7 @@ You can find my CV [here](static/docs/cv.pdf).
 
 ## PUBLICATIONS <span class="scholar">(<a href="https://scholar.google.pt/citations?user=bxUKyLQAAAAJ&hl=en" style="color:inherit">Google Scholar</a>)</span>
 
-* **R. Gonçalves**, F. Ramos, P. Adão, J. Fragoso Santos. *Specification-Driven Generation of Summaries for Symbolic Execution*. To appear in: ESOP 2026.
+* **R. Gonçalves**, F. Ramos, P. Adão, J. Fragoso Santos. *Specification-Driven Generation of Summaries for Symbolic Execution*. In: ESOP 2026. [[DOI](https://doi.org/10.1007/978-3-032-22720-1_11)]
 
 * **R. Gonçalves**, F. Gouveia, I. Lynce, J. Fragoso Santos. *Proxy Attribute Discovery in Machine Learning Datasets via Inductive Logic Programming*. In: TACAS 2025. [[DOI](https://doi.org/10.1007/978-3-031-90653-4_17)] [[Slides](static/docs/tacas25.pdf)]
 

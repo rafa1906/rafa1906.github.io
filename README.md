@@ -2,9 +2,9 @@
 
 # Hi, I'm Rafael!
 
-I'm a second-year Computer Science PhD student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/), supported by a [CMU Portugal Dual Degree PhD](https://cmuportugal.org/dual-degree-phd/) fellowship. I'm co-advised by Profs. [José Fragoso Santos](https://web.ist.utl.pt/jose.fragoso/), [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/) and [Pedro Adão](https://www.math.tecnico.ulisboa.pt/~padao/). 
+I'm a third-year Computer Science PhD student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/), supported by a [CMU Portugal Dual Degree PhD](https://cmuportugal.org/dual-degree-phd/) fellowship. I'm co-advised by Profs. [José Fragoso Santos](https://web.ist.utl.pt/jose.fragoso/), [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/) and [Pedro Adão](https://www.math.tecnico.ulisboa.pt/~padao/). This summer I'm also interning at [Amazon Web Services (AWS)](https://aws.amazon.com/) as an Applied Scientist Intern, working on Automated Reasoning checks for [Amazon Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/).
 
-My research interests lie primarly in the areas of software security and formal methods. Most recently, I've been building robust analysis tools for detecting vulnerabilities in Node.js packages.
+My research primarily applies program analysis and formal methods to problems in software and web security. Most recently, I’ve been building robust analysis tools for detecting vulnerabilities in JavaScript code.
 
 I hold an MSc in Computer Science and Engineering from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/). I've also worked on fairness in Machine Learning as a Research Assistant at [INESC-ID](https://www.inesc-id.pt/) and served as a TA in multiple courses.
 
@@ -24,7 +24,9 @@ You can find my CV [here](static/docs/cv.pdf).
 
 ## EXPERIENCE
 
-Previously, I worked on the [RIGA](https://doi.org/10.54499/2022.03537.PTDC) project as a Research Assisistant in the [Automated Reasoning and Software Reliability](https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/) group at at [INESC-ID](https://www.inesc-id.pt/). Before that, I spent two months at CMU's [CyLab](https://www.cylab.cmu.edu/) as a visiting scholar under the guidance of Prof. [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/), working on [NodeMedic](https://www.doi.org/10.1109/EuroSP57164.2023.00068).
+For Summer 2026, I'm interning at [Amazon Web Services (AWS)](https://aws.amazon.com/) as an Applied Scientist Intern, working on Automated Reasoning checks for [Amazon Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/).
+
+Previously, I worked on the [RIGA](https://doi.org/10.54499/2022.03537.PTDC) project as a Research Assistant in the [Automated Reasoning and Software Reliability](https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/) group at [INESC-ID](https://www.inesc-id.pt/). Before that, I spent two months at CMU's [CyLab](https://www.cylab.cmu.edu/) as a visiting scholar under the guidance of Prof. [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/), working on [NodeMedic](https://www.doi.org/10.1109/EuroSP57164.2023.00068).
 
 ### Teaching
 
@@ -40,7 +42,7 @@ I've served as a TA in these courses at [IST](https://tecnico.ulisboa.pt/en/):
 [//]: # (### Past)
 
 * **RIGA: Reasoning Over Indirect Discrimination** [[DOI](https://doi.org/10.54499/2022.03537.PTDC)]\
-The issue of fairness is a well-known challenge in Machine Learning (ML). Algorithmic bias can manifest during the training of ML models due to the presence of sensitive attributes, such as gender or racial identity. Project RIGA aims to apply automated reasoning techniques to detect *indirect discrimination* in ML classification algorithms. The focus is on so-called *proxy attributes*: those that, while not sensitive themselves, may lead to discrimiatory behavior due to their correlation with sensitive attributes.
+The issue of fairness is a well-known challenge in Machine Learning (ML). Algorithmic bias can manifest during the training of ML models due to the presence of sensitive attributes, such as gender or racial identity. Project RIGA aims to apply automated reasoning techniques to detect *indirect discrimination* in ML classification algorithms. The focus is on so-called *proxy attributes*: those that, while not sensitive themselves, may lead to discriminatory behavior due to their correlation with sensitive attributes.
     
 ## CONTACT
 
@@ -48,7 +50,7 @@ Want to talk? Find me at:
 
 <dl style="padding-left:4%">
     <dt><i class="fa-solid fa-location-dot" style="padding-left:2pt;padding-right:1.5pt"></i> GHC 9223, CMU</dt>
-    <dt><i class="fa-solid fa-envelope"></i> <a href="mailto:rafael.s.goncalves@tecnico.ulisboa.pt" style="color:inherit">rgoncalv@andrew.cmu.edu</a></dt>
+    <dt><i class="fa-solid fa-envelope"></i> <a href="mailto:rgoncalv@andrew.cmu.edu" style="color:inherit">rgoncalv@andrew.cmu.edu</a></dt>
     <dt><i class="fa-brands fa-linkedin" style="padding-left:0.5pt"></i> <a href="https://www.linkedin.com/in/rafa1906/" style="color:inherit">Rafael Gonçalves</a></dt>
 </dl>
 

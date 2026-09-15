@@ -2,11 +2,11 @@
 
 # Hi, I'm Rafael!
 
-I'm a third-year Computer Science PhD student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/), supported by a [CMU Portugal Dual Degree PhD](https://cmuportugal.org/dual-degree-phd/) fellowship. I'm co-advised by Profs. [José Fragoso Santos](https://web.ist.utl.pt/jose.fragoso/), [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/) and [Pedro Adão](https://www.math.tecnico.ulisboa.pt/~padao/). I've also interned at [Amazon Web Services (AWS)](https://aws.amazon.com/) as an Applied Scientist Intern, working on Automated Reasoning checks for [Amazon Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/).
+I'm a third-year Computer Science PhD student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) and [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/), supported by a [CMU Portugal Dual Degree PhD](https://cmuportugal.org/dual-degree-phd/) fellowship. I'm co-advised by Profs. [José Fragoso Santos](https://web.ist.utl.pt/jose.fragoso/), [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/) and [Pedro Adão](https://www.math.tecnico.ulisboa.pt/~padao/).
 
 My research primarily applies program analysis and formal methods to problems in software and web security. Most recently, I’ve been building robust analysis tools for detecting vulnerabilities in JavaScript code.
 
-I hold an MSc in Computer Science and Engineering from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/). I've also worked on fairness in Machine Learning as a Research Assistant at [INESC-ID](https://www.inesc-id.pt/) and served as a TA in multiple courses.
+I hold an MSc in Computer Science and Engineering from [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/). I've also interned at [Amazon Web Services (AWS)](https://aws.amazon.com/) as an Applied Scientist Intern working on Automated Reasoning checks for [Amazon Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/), worked on fairness in Machine Learning as a Research Assistant at [INESC-ID](https://www.inesc-id.pt/), and served as a TA in multiple courses.
 
 You can find my CV [here](static/docs/cv.pdf).
 
